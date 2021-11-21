@@ -14,6 +14,6 @@ Scripts:
 
 -WebScraping(py)
 
-En cada carpeta podran ver otro redme.md con informacion mas especifica de cada script.
+En cada carpeta podran ver mas readme.md con informacion mas especifica de cada script.
 
 
