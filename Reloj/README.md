@@ -9,3 +9,5 @@ La funcion del script "Reloj" es un ejecutable que muestra un reloj con la sigui
 -Dia de la semana actual
 
 -Fecha exacta del mismo dia
+
+Fue creado con python
