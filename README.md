@@ -10,7 +10,7 @@ Scripts:
 
 -ScanPuertos(ps1)
 
--ScanPuertos(py)
+-ScanPuertos2(py)
 
 -WebScraping(py)
 
