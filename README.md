@@ -1,5 +1,7 @@
 # PIA-LPC
 
+Mauricio Guerrero Felix (1990021)
+
 En este PIA podran ver algunos scripts que fui trabajando durante el semestre, donde utilizamos herramientas como python(.py) y powershell(.ps1).
 
 Scripts:
@@ -10,6 +12,8 @@ Scripts:
 
 -ScanPuertos(py)
 
--
+-WebScraping(py)
+
+En cada carpeta podran ver otro redme.md con informacion mas especifica de cada script.
 
 
