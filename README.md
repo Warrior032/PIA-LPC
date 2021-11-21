@@ -2,10 +2,10 @@
 
 En este PIA podran ver algunos scripts que fui trabajando durante el semestre, donde utilizamos herramientas como python(.py) y powershell(.ps1).
 
-Scripts:
+Scripts
 
-Reloj(py)
-ScanPuertos(ps1)
-ScanPuertos2(py)
+Reloj
+ScanPuertos
+ScanPuertos2
 
 
