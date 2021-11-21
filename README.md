@@ -4,8 +4,12 @@ En este PIA podran ver algunos scripts que fui trabajando durante el semestre, d
 
 Scripts:
 
-Reloj
-Scan
-Scan
+-Reloj(py)
+
+-ScanPuertos(ps1)
+
+-ScanPuertos(py)
+
+-
 
 
