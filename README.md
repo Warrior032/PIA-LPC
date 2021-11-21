@@ -6,8 +6,5 @@ Scripts:
 
 -Reloj(py)
 -ScanPuertos(ps1)
-
-
-
-
+-ScanPuertos2(py)
 
