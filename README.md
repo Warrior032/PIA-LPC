@@ -1,6 +1,6 @@
 # PIA-LPC
 
-Mauricio Guerrero Felix (1990021)
+Mauricio Guerrero Felix 
 
 En este PIA podran ver algunos scripts que fui trabajando durante el semestre, donde utilizamos herramientas como python(.py) y powershell(.ps1).
 
